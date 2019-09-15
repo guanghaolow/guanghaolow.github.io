@@ -1,4 +1,4 @@
-## Current position
+## Current Position
 
 Senior researcher at [Microsoft Quantum - Redmond](https://www.microsoft.com/en-us/research/group/microsoft-quantum-redmond-quarc/)
 
