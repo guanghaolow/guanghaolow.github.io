@@ -4,8 +4,8 @@ Senior researcher at [Microsoft Quantum - Redmond](https://www.microsoft.com/en-
 
 ## Education
 
-- Ph.D. (2017) from the [MIT Deparment of Physics](https://web.mit.edu/physics/). My advisor was [Prof. Isaac L. Chuang](http://feynman.mit.edu/ike/homepage/index.html).
-- M.Sci. and B.A. (2012) from [Christ's College of the University of Cambridge](https://www.christs.cam.ac.uk/).
+- 2017 - Ph.D. from the [MIT Deparment of Physics](https://web.mit.edu/physics/). My advisor was [Prof. Isaac L. Chuang](http://feynman.mit.edu/ike/homepage/index.html).
+- 2012 - M.Sci. and B.A. (2012) from [Christ's College of the University of Cambridge](https://www.christs.cam.ac.uk/).
 
 ## Research
 
