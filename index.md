@@ -1,4 +1,4 @@
-# Guang Hao **Low**
+## Current position
 
 Senior researcher at [Microsoft quantum - Redmond](https://www.microsoft.com/en-us/research/group/microsoft-quantum-redmond-quarc/)
 
