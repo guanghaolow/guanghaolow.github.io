@@ -1,16 +1,3 @@
-[//]: # (Name)
-
-[//]: # (Where I currently work)
-
-[//]: # (Contact information)
-
-[//]: # (What I do)
-
-[//]: # (Previous work / education)
-
-[//]: # (Publications)
-
-
 # Guang Hao **Low**
 
 Senior researcher at [Microsoft quantum - Redmond](https://www.microsoft.com/en-us/research/group/microsoft-quantum-redmond-quarc/)
@@ -28,10 +15,3 @@ Senior researcher at [Microsoft quantum - Redmond](https://www.microsoft.com/en-
 
 ## Publications
 Authorship in physics venues (e.g. Physical review) are typically ordered by contribution. Authorship in computer science venues (e.g. STOC / FOCS) are typically ordered alphabetically.
-
-- My [Google scholar profile](https://scholar.google.com/citations?user=qCsIdcsAAAAJ&hl=en)
-
-## Contact
-
-Email: GuangHao.Low@Microsoft.com
-
