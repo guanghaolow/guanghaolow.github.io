@@ -10,8 +10,8 @@ Senior researcher at [Microsoft Quantum - Redmond](https://www.microsoft.com/en-
 ## Research
 
 - Push the limits of quantm computing in simulating physics, and to understand physics as a heuristic for solving computational problems. 
-- I am currently interested in and have worked on quantum algorithms for simulation, machine learning, linear algebra, imaging, search, and tomography.
-- I have worked on noise models and control of trapped ion quantum computing.
+- I am interested in and have worked on quantum algorithms for simulation, machine learning, linear algebra, imaging, search, and tomography.
+- I also have also worked on noise models and control of trapped ion quantum computing.
 
 ## Publications
 Authorship in physics venues (e.g. Physical review) are typically ordered by contribution. Authorship in computer science venues (e.g. STOC / FOCS) are typically ordered alphabetically.
