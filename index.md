@@ -13,8 +13,6 @@
 
 # Guang Hao **Low**
 
-(resources/self_2017.png)
-
 Senior researcher at [Microsoft quantum - Redmond](https://www.microsoft.com/en-us/research/group/microsoft-quantum-redmond-quarc/)
 
 ## Background
