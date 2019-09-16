@@ -24,6 +24,7 @@ Authorship in physics venues (e.g. Physical review) are typically ordered by con
    - **Guang Hao Low**, Isaac L. Chuang
    - [arXiv:1610.06546](https://arxiv.org/abs/1610.06546)
    - [Quantum 3, 163 (2019)](https://doi.org/10.22331/q-2019-07-12-163)
+   - Featured in Quantum: [Framework for Hamiltonian simulation and beyond](https://doi.org/10.22331/qv-2019-08-13-21)
   
 3. Downfolding of many-body Hamiltonians using active-space models: extension of the sub-system embedding sub-algebras approach to unitary coupled cluster formalisms 
    - Nicholas P. Bauman, Eric J. Bylaska, Sriram Krishnamoorthy, **Guang Hao Low**, Nathan Wiebe, Christopher E. Granade, Martin Roetteler, Matthias Troyer, Karol Kowalski
@@ -48,6 +49,7 @@ Authorship in physics venues (e.g. Physical review) are typically ordered by con
     - YR Sanders, **Guang Hao Low**, A Scherer, DW Berry
     - [arXiv:1807.03206](https://arxiv.org/abs/1807.03206)
     - [Physical Review Letters 122, 020502](https://doi.org/10.1103/PhysRevLett.122.020502)
+    - Editors' suggestion
 
 8. Trading T-gates for dirty qubits in state preparation and unitary synthesis
     - **Guang Hao Low**, Vadym Kliuchnikov, L Schaeffer
@@ -114,11 +116,13 @@ Authorship in physics venues (e.g. Physical review) are typically ordered by con
     - **Guang Hao Low**, Theodore J. Yoder, Isaac L. Chuang
     - [arXiv:1409.7993](https://arxiv.org/abs/1409.7993)
     - [Physical Review Letters 114 100801 (2015)](https://doi.org/10.1103/PhysRevLett.114.100801)
+    - Featured in Physics: [Quantum Particles Spotted in Less Time](https://physics.aps.org/synopsis-for/10.1103/PhysRevLett.114.100801)
     
 22. Fixed-point quantum search with an optimal number of queries
     - Theodore J. Yoder, **Guang Hao Low**, Isaac L. Chuang
     - [arXiv:1409.3305](https://arxiv.org/abs/1409.3305)
     - [Physical Review Letters 113 210501 (2014)](https://doi.org/10.1103/PhysRevLett.113.210501)
+    -  Editors' suggestion; Featured in Physics: [Quantum Search Gets an Update](https://physics.aps.org/synopsis-for/10.1103/PhysRevLett.113.210501)
 
 23. Quantum inference on Bayesian networks
     - **Guang Hao Low**, Theodore J. Yoder, Isaac L. Chuang
