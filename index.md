@@ -19,6 +19,7 @@ Authorship in physics venues (e.g. Physical review) are typically ordered by con
 1. Well-conditioned multiproduct Hamiltonian simulation
    - **Guang Hao Low**, Vadym Kliuchnikov, Nathan Wiebe
    -  [arXiv:1907.11679](https://arxiv.org/abs/1907.11679)	
+   -  
 2. Hamiltonian simulation by Qubitization 
    - **Guang Hao Low**, Isaac L. Chuang
    - [arXiv:1610.06546](https://arxiv.org/abs/1610.06546)
