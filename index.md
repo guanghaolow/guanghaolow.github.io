@@ -4,8 +4,8 @@ Senior researcher at [Microsoft Quantum - Redmond](https://www.microsoft.com/en-
 
 # Education
 
-- 2017 - Ph.D. from the [MIT Deparment of Physics](https://web.mit.edu/physics/). My advisor was [Prof. Isaac L. Chuang](http://feynman.mit.edu/ike/homepage/index.html).
-- 2012 - M.Sci. and B.A. (2012) from [Christ's College of the University of Cambridge](https://www.christs.cam.ac.uk/).
+- Ph.D. (2017) from the [MIT Deparment of Physics](https://web.mit.edu/physics/). My advisor was [Prof. Isaac L. Chuang](http://feynman.mit.edu/ike/homepage/index.html).
+- M.Sci. and B.A. (2012) from [Christ's College of the University of Cambridge](https://www.christs.cam.ac.uk/).
 
 # Research
 
@@ -19,7 +19,7 @@ Authorship in physics venues (e.g. Physical review) are typically ordered by con
 1. Well-conditioned multiproduct Hamiltonian simulation
    - **Guang Hao Low**, Vadym Kliuchnikov, Nathan Wiebe
    -  [arXiv:1907.11679](https://arxiv.org/abs/1907.11679)	
-   -  
+     
 2. Hamiltonian simulation by Qubitization 
    - **Guang Hao Low**, Isaac L. Chuang
    - [arXiv:1610.06546](https://arxiv.org/abs/1610.06546)
@@ -39,7 +39,7 @@ Authorship in physics venues (e.g. Physical review) are typically ordered by con
 5. Quantum singular value transformation and beyond: exponential improvements for quantum matrix arithmetics
    - András Gilyén, Yuan Su, **Guang Hao Low**, Nathan Wiebe
    - [arXiv:1806.01838](https://arxiv.org/abs/1806.01838)
-   - [Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing, Pages 193-204](https://doi.org/10.1145/3313276.3316366)
+   - [Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing, Pages 193-204 (2019)](https://doi.org/10.1145/3313276.3316366)
   
 6. Q# and NWChem: Tools for scalable quantum chemistry on qantum computers
     - **Guang Hao Low**, Nicholas P. Bauman, Christopher E. Granade, Bo Peng, Nathan Wiebe, Eric J. Bylaska, Dave Wecker, Sriram Krishnamoorthy, Martin Roetteler, Karol Kowalski, Matthias Troyer, Nathan A. Baker
@@ -48,7 +48,7 @@ Authorship in physics venues (e.g. Physical review) are typically ordered by con
 7. Black-box quantum state preparation without arithmetic
     - YR Sanders, **Guang Hao Low**, A Scherer, DW Berry
     - [arXiv:1807.03206](https://arxiv.org/abs/1807.03206)
-    - [Physical Review Letters 122, 020502](https://doi.org/10.1103/PhysRevLett.122.020502)
+    - [Physical Review Letters 122, 020502 (2019)](https://doi.org/10.1103/PhysRevLett.122.020502)
     - Editors' suggestion
 
 8. Trading T-gates for dirty qubits in state preparation and unitary synthesis
