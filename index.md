@@ -10,7 +10,6 @@ Staff Research Scientist at [Google Quantum AI - Seattle](https://quantumai.goog
 # Research 
 
 - Quantum algorithms, quantum compilation, and quantum error correction
-- [Google scholar](https://scholar.google.com/citations?user=qCsIdcsAAAAJ&hl=en)
 
 # Publications (As of 2019)
 Authorship in physics venues (e.g. Physical review) are typically ordered by contribution. Authorship in computer science venues (e.g. STOC / FOCS) are typically ordered alphabetically.
